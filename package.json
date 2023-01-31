@@ -1,0 +1,31 @@
+{
+  "name": "express_error_handlers",
+  "version": "1.0.0",
+  "description": "this is toturial for express error handle",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sunilkumar93/express_error_handlers.git"
+  },
+  "keywords": [
+    "express",
+    "expressError",
+    "error",
+    "express",
+    "error"
+  ],
+  "author": "sunil kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sunilkumar93/express_error_handlers/issues"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.9.0"
+  }
+}
